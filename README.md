@@ -1,0 +1,2 @@
+# tekParity
+deney1
